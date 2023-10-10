@@ -18,7 +18,7 @@ st.subheader("Nonthakan Jarpun")
 col1, col2 = st.columns(2)
 with col1:
     st.image('./pic/earth.jpg')
-    lot3="https://lottie.host/defef63f-5b59-455d-a6e0-ff03f2791104/t43d8wbLKq.json"
+    lot3="https://lottie.host/ab6efbe2-81bd-4dd5-a2a8-e9567db3ae42/Exp97i4ktM.json"
     lottie3 = load_lottieurl(lot3)
     st_lottie(lottie3)
 with col2:
